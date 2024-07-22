@@ -8,3 +8,4 @@ bu örnek dosyaları revize edip farklı sensörleri ekleyip çıkarabilirsiniz
 !!BU PROJE GÖMÜLÜ SİSTEMLER İLE İLGİLENEN KİŞİLERE TÜRKÇE KAYNAK SAĞLAMAK İÇİN BİR ÜNİVERSİTE ÖĞRENCİSİ TARAFINDAN HAZIRLANMIŞTIR YANLIŞ GÖRDÜĞÜNÜZ VE TAVSİYE VERMEK İSTEDİĞİNİZ BİR KONU OLURSA İLETİŞİME GEÇEBİLİRSİNİZ İYİ ÇALIŞMALAR.
 --------------------------------------
 HASAN KAAN KARTAL
+lora e32-433t30d
